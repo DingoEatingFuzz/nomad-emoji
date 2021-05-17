@@ -1,6 +1,6 @@
 # Nomad Emoji
 
-Are you a fan of Nomad? Want to truly express those feelings? Or maybe you want to take a more subliminal approach to convincing your friends and colleagues that Nomad is as great as you've been saying? Consider adding these **30 custom Nomad emoji** to your Slack, Discord, or whatever instance!
+Are you a fan of Nomad? Want to truly express those feelings? Or maybe you want to take a more subliminal approach to convincing your friends and colleagues that Nomad is as great as you've been saying? Consider adding these **32 custom Nomad emoji** to your Slack, Discord, or whatever instance!
 
 ## Files
 

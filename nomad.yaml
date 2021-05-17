@@ -1,5 +1,9 @@
 title: nomad
 emojis:
+  - name: hug-nomad-consul
+    src: http://localhost:6464/PNG/hug-nomad-consul.png
+  - name: hug-nomad-vault
+    src: http://localhost:6464/PNG/hug-nomad-vault.png
   - name: nomad-awesome
     src: http://localhost:6464/PNG/nomad-awesome.png
   - name: nomad-chef-kiss
