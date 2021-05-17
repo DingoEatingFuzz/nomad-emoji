@@ -8,6 +8,8 @@ emojis:
     src: http://localhost:6464/PNG/nomad-cowboy-wow.png
   - name: nomad-happy
     src: http://localhost:6464/PNG/nomad-happy.png
+    aliases:
+      - nomad-glad
   - name: nomad-heart-eyes
     src: http://localhost:6464/PNG/nomad-heart-eyes.png
   - name: nomad-innocent
