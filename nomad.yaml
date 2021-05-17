@@ -1,0 +1,62 @@
+title: nomad
+emojis:
+  - name: nomad-awesome
+    src: http://localhost:6464/PNG/nomad-awesome.png
+  - name: nomad-chef-kiss
+    src: http://localhost:6464/PNG/nomad-chef-kiss.png
+  - name: nomad-cowboy-wow
+    src: http://localhost:6464/PNG/nomad-cowboy-wow.png
+  - name: nomad-happy
+    src: http://localhost:6464/PNG/nomad-happy.png
+  - name: nomad-heart-eyes
+    src: http://localhost:6464/PNG/nomad-heart-eyes.png
+  - name: nomad-innocent
+    src: http://localhost:6464/PNG/nomad-innocent.png
+  - name: nomad-mad
+    src: http://localhost:6464/PNG/nomad-mad.png
+  - name: nomad-mask
+    src: http://localhost:6464/PNG/nomad-mask.png
+  - name: nomad-mild-panic
+    src: http://localhost:6464/PNG/nomad-mild-panic.png
+  - name: nomad-monocle
+    src: http://localhost:6464/PNG/nomad-monocle.png
+  - name: nomad-peek
+    src: http://localhost:6464/PNG/nomad-peek.png
+  - name: nomad-scooter-2
+    src: http://localhost:6464/PNG/nomad-scooter-2.png
+  - name: nomad-scooter-3
+    src: http://localhost:6464/PNG/nomad-scooter-3.png
+  - name: nomad-scooter-4
+    src: http://localhost:6464/PNG/nomad-scooter-4.png
+  - name: nomad-scooter-5
+    src: http://localhost:6464/PNG/nomad-scooter-5.png
+  - name: nomad-scooter-6
+    src: http://localhost:6464/PNG/nomad-scooter-6.png
+  - name: nomad-shrug
+    src: http://localhost:6464/PNG/nomad-shrug.png
+  - name: nomad-sob
+    src: http://localhost:6464/PNG/nomad-sob.png
+  - name: nomad-somad
+    src: http://localhost:6464/PNG/nomad-somad.png
+  - name: nomad-star-struck
+    src: http://localhost:6464/PNG/nomad-star-struck.png
+  - name: nomad-sunglasses
+    src: http://localhost:6464/PNG/nomad-sunglasses.png
+  - name: nomad-sweat-smile
+    src: http://localhost:6464/PNG/nomad-sweat-smile.png
+  - name: nomad-thinking
+    src: http://localhost:6464/PNG/nomad-thinking.png
+  - name: nomad-yells-at-cloud
+    src: http://localhost:6464/PNG/nomad-yells-at-cloud.png
+  - name: old-man-yells-at-nomad
+    src: http://localhost:6464/PNG/old-man-yells-at-nomad.png
+  - name: nomad-bushes
+    src: http://localhost:6464/GIF/nomad-bushes.gif
+  - name: nomad-bushes-reverse
+    src: http://localhost:6464/GIF/nomad-bushes-reverse.gif
+  - name: nomad-happy-nyan
+    src: http://localhost:6464/GIF/nomad-happy-nyan.gif
+  - name: nomad-nod
+    src: http://localhost:6464/GIF/nomad-nod.gif
+  - name: nomad-nyan
+    src: http://localhost:6464/GIF/nomad-nyan.gif
