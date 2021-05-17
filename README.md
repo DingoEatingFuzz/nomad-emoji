@@ -6,7 +6,7 @@ Are you a fan of Nomad? Want to truly express those feelings? Or maybe you want 
 
 Files are split across four directories:
 
-1. **Originals:** These are source files, including files for [Adobe Illustrator]() and [Cinema 4D](). If you don't have that software, don't worry, you don't need the originals anyway.
+1. **Originals:** These are source files, including files for [Adobe Illustrator](https://www.adobe.com/products/illustrator.html) and [Cinema 4D](https://www.maxon.net/en/cinema-4d/). If you don't have that software, don't worry, you don't need the originals anyway.
 2. **SVGs:** These are scalabe vectors of the originals (that were made in Illustrator). You don't need these either, but you can use these to make bigger versions of the PNGs.
 3. **PNGs:** These are the files you actually want to upload to Slack. They come pre-named as my recommended emoji name.
 4. **GIFs:** These are also the files you want to upload to Slack. They should all already be compressed to the point of uploadability.
