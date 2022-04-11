@@ -66,3 +66,11 @@ emojis:
     src: http://localhost:6464/GIF/nomad-nod.gif
   - name: nomad-nyan
     src: http://localhost:6464/GIF/nomad-nyan.gif
+  - name: nomad-care
+    src: http://localhost:6464/PNG/nomad-care.png
+  - name: nomad-pack
+    src: http://localhost:6464/PNG/nomad-pack.png
+  - name: nomad-bin-pack
+    src: http://localhost:6464/PNG/nomad-bin-pack.png
+  - name: nomad-exploding-head
+    src: http://localhost:6464/PNG/nomad-exploding-head.png
